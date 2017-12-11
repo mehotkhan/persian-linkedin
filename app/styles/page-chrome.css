@@ -1,0 +1,234 @@
+@font-face {
+  font-family: Vazir;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Vazir.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Vazir;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Vazir-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Samim;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Samim.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Samim;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Samim-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Shabnam.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Shabnam;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Shabnam-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Sahel.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Sahel-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Parastoo;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Parastoo.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Parastoo;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Parastoo-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Gandom;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Gandom.woff') format('woff');
+}
+
+@font-face {
+  font-family: Tanha;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Tanha.woff') format('woff');
+}
+
+@font-face {
+  font-family: Behdad;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Behdad.woff') format('woff');
+}
+
+@font-face {
+  font-family: Nika;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Nika.woff') format('woff');
+}
+
+@font-face {
+  font-family: Shahab;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Shahab.woff') format('woff');
+}
+
+@font-face {
+  font-family: GanjNameh;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/GanjNameh.woff') format('woff');
+}
+
+@font-face {
+  font-family: Pfont;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Pfont.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Pfont;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/Pfont-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: NotoNaskh;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/NotoNaskh.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: NotoNaskh;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/NotoNaskh-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: DroidNaskh;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/DroidNaskh.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: DroidNaskh;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/DroidNaskh-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: IranianSans;
+  src: url('chrome-extension://__MSG_@@extension_id__/fonts/IranianSans.woff') format('woff');
+}
+
+body.persian-linkedin-vazir {
+  font-family: Vazir, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  word-spacing: -1px;
+}
+
+body.persian-linkedin-samim {
+  font-family: Samim, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-shabnam {
+  font-family: Shabnam, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-sahel {
+  font-family: Sahel, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-parastoo {
+  font-family: Parastoo, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  word-spacing: -1px;
+}
+
+body.persian-linkedin-gandom {
+  font-family: Gandom, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-tanha {
+  font-family: Tanha, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  word-spacing: -1px;
+}
+
+body.persian-linkedin-behdad {
+  font-family: Behdad, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-nika {
+  font-family: Nika, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-shahab {
+  font-family: Shahab, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-ganjnameh {
+  font-family: GanjNameh, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-pfont {
+  font-family: Pfont, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-notonaskh {
+  font-family: NotoNaskh, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-droidnaskh {
+  font-family: DroidNaskh, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+body.persian-linkedin-iraniansans {
+  font-family: IranianSans, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  word-spacing: -1px;
+}
+
+body[class*="persian-linkedin"] blockquote,
+body[class*="persian-linkedin"] dl,
+body[class*="persian-linkedin"] dd,
+body[class*="persian-linkedin"] h1,
+body[class*="persian-linkedin"] h2,
+body[class*="persian-linkedin"] h3,
+body[class*="persian-linkedin"] h4,
+body[class*="persian-linkedin"] h5,
+body[class*="persian-linkedin"] h6,
+body[class*="persian-linkedin"] figure,
+body[class*="persian-linkedin"] p,
+body[class*="persian-linkedin"] pre {
+  margin-top: 3px;
+}
+
+body[class*="persian-linkedin"] .feed-base-main-content {
+  direction: rtl;
+  text-align: right;
+  font-family: inherit;
+  line-height: 26px;
+}
+
+body[class*="persian-linkedin"] .mentions-texteditor__contenteditable p {
+  font-family: inherit;
+}
+
+body[class*="persian-linkedin"] .mentions-texteditor__contenteditable {
+  text-align: right;
+  direction: rtl;
+  font-family: inherit;
+  line-height: 26px;
+}
+
+body[class*="persian-linkedin"] .feed-base-inline-show-more-text .see-more {
+  right: auto;
+  left: 0;
+  padding-left: 0;
+  padding-right: 8px;
+}
