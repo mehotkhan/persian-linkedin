@@ -22,13 +22,11 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, currentTab) => {
     }
 
     const font = localStorage.getItem('persian-linkedin-font') || 'default';
-    const fixedFontSize = parseInt(localStorage.getItem('persian-linkedin-fixed-font-size'), 10) || 0
 
     for (const tab of tabs) {
       chrome.tabs.sendMessage(tab.id, {
         changeFont: {
-          font,
-          fixedFontSize
+          font
         }
       });
     }
