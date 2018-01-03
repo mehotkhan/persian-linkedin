@@ -2,7 +2,7 @@
 
 # persian-Linkedin
 
-* Form from : [persian-twitter](https://github.com/mamal72/persian-twitter).     
+* Fork  from : [persian-twitter](https://github.com/mamal72/persian-twitter).     
 * add RTL , Right-To-Left on linkedin Posts 
 * multi font selector ;)
 
